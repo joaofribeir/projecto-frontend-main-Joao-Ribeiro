@@ -7,7 +7,7 @@ function Card() {
 				</a>
 				<div className='cardText'>
 					<h3>Amarante</h3>
-					<p>(icon) 13/10/2015</p>
+					<p>(icon) 13/10/2020</p>
 				</div>
 			</div>
 		</>
